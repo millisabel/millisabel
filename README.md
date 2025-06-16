@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lena!
 
 I'm a frontend developer who loves building websites with HTML, CSS, and JavaScript 💻✨.  
-Welcome to my portfolio! 😊
 
 ## 🛠️ My Skills
 
