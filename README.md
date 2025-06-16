@@ -7,7 +7,8 @@ Welcome to my portfolio! 😊
 
 - 🔤 HTML5, 🎨 CSS3, ⚙️ JavaScript (ES6+)
 - ⚛️ React.js (basic experience)
-- 💅 SCSS, 🔧 GULP, 🧱 BEM methodology
+- 💅 SCSS, 🧩 Bootstrap 5, 🧱 BEM methodology
+- 🔧 GULP, 📦 Webpack (basic usage)
 - 📱 Adaptive & Responsive design
 - 🖼️ Web-page implementation from professional mockups
 - 🖌️ Adobe Photoshop, 🧬 Illustrator, 🎯 Figma
