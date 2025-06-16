@@ -1,13 +1,16 @@
-![github-header-image](https://github.com/user-attachments/assets/2e163c81-28bd-4bfb-bb66-706f8654c7c0)
+# 👋 Hi, I'm Lena!
 
-## My skills
+I'm a frontend developer who loves building websites with HTML, CSS, and JavaScript 💻✨.  
+Welcome to my portfolio! 😊
 
-- HTML5, CSS3, JS
-- experience using React.js
-- SCSS, GULP, BEM methodology
-- Adaptive and Responsive design implementation
-- Web-page implementation based on professional mockups
-- PhotoShop, Illustrator, Figma
+## 🛠️ My Skills
+
+- 🔤 HTML5, 🎨 CSS3, ⚙️ JavaScript (ES6+)
+- ⚛️ React.js (basic experience)
+- 💅 SCSS, 🔧 GULP, 🧱 BEM methodology
+- 📱 Adaptive & Responsive design
+- 🖼️ Web-page implementation from professional mockups
+- 🖌️ Adobe Photoshop, 🧬 Illustrator, 🎯 Figma
 
 
 
