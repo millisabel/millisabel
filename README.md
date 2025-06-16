@@ -5,13 +5,13 @@ Welcome to my portfolio! 😊
 
 ## 🛠️ My Skills
 
-- 🔤 HTML5, 🎨 CSS3, ⚙️ JavaScript (ES6+)
-- ⚛️ React.js (basic experience)
-- 💅 SCSS, 🧩 Bootstrap 5, 🧱 BEM methodology
-- 🔧 GULP, 📦 Webpack (basic usage)
-- 📱 Adaptive & Responsive design
-- 🖼️ Web-page implementation from professional mockups
-- 🖌️ Adobe Photoshop, 🧬 Illustrator, 🎯 Figma
+- 🔤 HTML5, CSS3, JavaScript (ES6+)
+- ⚛️ React.js (basic level)
+- 💅 SCSS, Bootstrap 5, BEM (CSS architecture)
+- 🔧 Gulp, Webpack (build tools)
+- 📱 Responsive & Adaptive layout
+- 🖼️ Pixel-perfect implementation from Figma/PSD
+- 🎨 Design tools: Figma, Photoshop, Illustrator
 
 
 
